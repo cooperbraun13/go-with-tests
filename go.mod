@@ -1,3 +1,3 @@
-module github.com/cooperbraun13/git-with-tests
+module github.com/cooperbraun13/go-with-tests
 
 go 1.24.3
